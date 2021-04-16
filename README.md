@@ -5,3 +5,4 @@ Steps:
     * cd .../project1
     * activate webscrape
     * scrapy crawl Books
+* Spyder script - firstspider.py
