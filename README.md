@@ -10,3 +10,4 @@ Steps to create a spider:
 * Interactive shell for debugging without the need for running Spyder
 * Anaconda prompt
    * scrapy shell https://books.toscrape.com/index.html
+   * use inspect element: bookstoscrape , inspect All products copy the xpath
