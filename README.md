@@ -18,3 +18,5 @@ Steps to create a spider:
 
 Scrapy Items
 * Spyder script - secondbook.py
+* Items are a way to extract structured data from unstructured sources
+* Scrapy already setup an items.py file when we initialized the project 
