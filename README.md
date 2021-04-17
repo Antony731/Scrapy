@@ -15,3 +15,6 @@ Steps to create a spider:
    
    CSS Method:
    * response.css('img').xpath('@src').getall() #return images
+
+Scrapy Items
+* Spyder script - secondbook.py
